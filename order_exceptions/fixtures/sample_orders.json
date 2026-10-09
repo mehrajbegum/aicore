@@ -1,0 +1,8 @@
+[
+  {"order_id":"PO-1001","tenant_id":"demo-wholesaler","supplier_id":"SUP-ALPHA","acknowledgment_status":"missing","requested_delivery_date":"2026-10-20","committed_delivery_date":null,"expected_unit_price":"12.50","quoted_unit_price":"12.50","currency":"USD"},
+  {"order_id":"PO-1002","tenant_id":"demo-wholesaler","supplier_id":"SUP-BRAVO","acknowledgment_status":"received","requested_delivery_date":"2026-10-18","committed_delivery_date":"2026-10-21","expected_unit_price":"5.00","quoted_unit_price":"5.00","currency":"USD"},
+  {"order_id":"PO-1003","tenant_id":"demo-wholesaler","supplier_id":"SUP-CHARLIE","acknowledgment_status":"received","requested_delivery_date":"2026-10-22","committed_delivery_date":"2026-10-22","expected_unit_price":"8.00","quoted_unit_price":"8.02","currency":"USD"},
+  {"order_id":"PO-1004","tenant_id":"demo-wholesaler","supplier_id":"SUP-DELTA","acknowledgment_status":"received","requested_delivery_date":"2026-10-25","committed_delivery_date":"2026-10-25","expected_unit_price":"3.20","quoted_unit_price":"3.21","currency":"USD"},
+  {"order_id":"PO-1005","tenant_id":"demo-wholesaler","supplier_id":"SUP-ECHO","acknowledgment_status":"unknown","requested_delivery_date":"2026-10-28","committed_delivery_date":null,"expected_unit_price":"2.00","quoted_unit_price":null,"currency":"USD"},
+  {"order_id":"PO-1006","tenant_id":"demo-wholesaler","supplier_id":"SUP-FOXTROT","acknowledgment_status":"received","requested_delivery_date":"2026-10-30","committed_delivery_date":null,"expected_unit_price":null,"quoted_unit_price":"4.00","currency":"USD"}
+]
